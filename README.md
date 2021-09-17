@@ -1,2 +1,2 @@
 # Crack
-A program that cracks passwords using brute force method.
+A program that cracks passwords using the brute force method.
